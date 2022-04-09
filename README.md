@@ -44,10 +44,12 @@ $ npm start
 
 ### 📢 Publication on the final outcome of the challenge in this [link](https://www.linkedin.com/posts/maria-raquel-3b27531a5_neverstoplearning-ignite-activity-6776675273942302720-elMU).
 
+
 ## 📃 License
-This project is under the MIT license.
-### Author
+### This project is under the MIT license.
+
 ---
+# 👩🏼‍💻 Author
 
 <a href="https://app.rocketseat.com.br/me/m-raquel">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63611614?v=4" width="100px;" alt=""/>
